@@ -11,7 +11,8 @@ body {
   width: 694px;
 }
 header {
-	background-color: #214555;
+/* 	background-color: #214555; */
+	background-img: url("sky.png")
 }
 #head-inner {
     padding: 25px 0;
