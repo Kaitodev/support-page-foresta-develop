@@ -12,7 +12,7 @@ body {
 }
 header {
 /* 	background-color: #214555; */
-	background-img: url("sky.png");
+	background-image: url("sky.png");
 }
 #head-inner {
     padding: 25px 0;
